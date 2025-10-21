@@ -13,7 +13,7 @@ const JWT_SECRET = '4fc4b259c4106cfa2037a42d58b45d89b9c8dcb82a4547f9f4c003888078
 const dbConfig = {
   host: 'localhost',
   user: 'root',
-  password: '1412',
+  password: '0000',
   database: 'stellarvote',
   waitForConnections: true,
   connectionLimit: 10,
